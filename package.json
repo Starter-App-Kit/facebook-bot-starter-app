@@ -1,0 +1,11 @@
+{
+  "name": "facebook-bot-starter-app",
+  "version": "0.1.0",
+  "description": "Starter kit for facebook bot",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}
